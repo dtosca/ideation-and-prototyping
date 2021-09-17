@@ -1,20 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+tagline: A few more words about this theme
+permalink: /about.html
+ref: about
+order: 0
 ---
 
-Hi! I'm Diana (she/they).
+This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
-Welcome to my blog for DM-GY 9103 Hacking Audio Hardware.
-
-Here's all my [class blogs](https://dtosca.github.io/).
-
-And my main [portfolio website](https://dianatosca.com/).
+You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
 
 
-. . .
-
-This blog was created using [Jekyll](https://jekyllrb.com/)
-
-Source code on [GitHub](https://github.com/dtosca/audiohardware).
+[Go to the Home Page]({{ '/' | absolute_url }})
