@@ -1,15 +1,20 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Process blog for Ideation and Prototyping
 permalink: /about.html
 ref: about
-order: 0
+order: 1
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Hi! I'm Diana ([pronouns she/they](https://lgbtlifecenter.org/pronouns/)).
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+This is my process blog for [DM-GY 6053 Ideation & Prototyping](https://wp.nyu.edu/ideationandprototyping/).
 
+Feel free to check out my [portfolio website](https://dianatosca.com/)! 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+For all my other class blogs, [click here](https://dtosca.github.io/).
+
+  * * *
+
+This blog was created using [Jekyll](https://jekyllrb.com/)

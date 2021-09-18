@@ -2,3 +2,44 @@
 ---
 
 @import 'jekyll-theme-cayman-blog';
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #892155;
+$header-bg-color-secondary: #AB296A;
+
+// Text
+$section-headings-color: #892155;
+$body-text-color: #AB296A !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #567482 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
+
+@import "{{ site.theme }}";
+
+.site-title, .site-title:visited, .site-title:hover {
+    color: #892155;
+    text-decoration: none;
+}
+
+.site-nav .page-link {
+    color: #009999;
+    line-height: 1.5;
+}
+
+a {
+    color: #009999;
+    text-decoration: none;
+}
