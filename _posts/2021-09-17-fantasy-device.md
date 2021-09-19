@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Fantasy Devices: Lightning and Glasses"
+author: Diana Tosca
+permalink: /fantasy-device/
+---
+
+<p>As designers, I think we all have an inner creativity where ✨the sky's the limit✨.</p>
+
+<p>But, as engineers, often times we let our practical minds take over to discourage our ideas.</p>
+
+<p>That's what I found most interesting about this assignment - it allowed our designer side dictate the conversation, to ruminate on our wildest ideas, regardless of the feasibility.</p>
+
+<p>My group went wild and rapid fired a dozen ideas into our board:</p>
+
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/ideation.png" alt="A screenshot of a board filled with sticky notes of ideas."></a>
+<br>
+
+<p>I was partial to one idea: glasses that augment your memory to remember information about people you've met. You can remember their names and past interactions you've had with them.</p>
+
+<p>We didn't end up expanding on that idea, but another group came up with the same idea! They brought up the same advantages we did (e.g. no one can remember anyone's face anymore because of COVID-19's mask regulations, so we can't remember their faces either).</p>
+
+<p>The idea my team did end up expanding on was a lightening rod that could detect lightning strikes and harness it's energy to make batteries.</p>
+
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/sketch1.png" alt="A sketch of a lightening rod that can harness electricity."></a>
+<br>
+
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/sketch2.png" alt="A sketch of a lightening rod that can harness electricity."></a>
+<br>
+
+<p>It was a bit outside of my domain, but a cool idea nonetheless!</p>
