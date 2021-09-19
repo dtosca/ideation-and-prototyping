@@ -13,7 +13,7 @@ permalink: /fantasy-device/
 
 <p>My group went wild and rapid fired a dozen ideas into our board:</p>
 
-<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/ideation.png" alt="A screenshot of a board filled with sticky notes of ideas."></a>
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/ideation-and-prototyping/assets/fantasydevice/ideation.png" alt="A screenshot of a board filled with sticky notes of ideas."></a>
 <br>
 
 <p>I was partial to one idea: glasses that augment your memory to remember information about people you've met. You can remember their names and past interactions you've had with them.</p>
@@ -22,10 +22,10 @@ permalink: /fantasy-device/
 
 <p>The idea my team did end up expanding on was a lightening rod that could detect lightning strikes and harness it's energy to make batteries.</p>
 
-<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/sketch1.png" alt="A sketch of a lightening rod that can harness electricity."></a>
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/ideation-and-prototyping/assets/fantasydevice/sketch1.png" alt="A sketch of a lightening rod that can harness electricity."></a>
 <br>
 
-<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/audiohardware/assets/fantasydevice/sketch2.png" alt="A sketch of a lightening rod that can harness electricity."></a>
+<a href="https://twitter.com/toscadiana/status/1438520107848933378"><img src="https://dtosca.github.io/ideation-and-prototyping/assets/fantasydevice/sketch2.png" alt="A sketch of a lightening rod that can harness electricity."></a>
 <br>
 
 <p>It was a bit outside of my domain, but a cool idea nonetheless!</p>
