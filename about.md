@@ -7,7 +7,7 @@ ref: about
 order: 1
 ---
 
-Hi! I'm Diana ([pronouns she/they](https://lgbtlifecenter.org/pronouns/)).
+Hi! I'm Diana ([pronouns they/them](https://lgbtlifecenter.org/pronouns/)).
 
 This is my process blog for [DM-GY 6053 Ideation & Prototyping](https://wp.nyu.edu/ideationandprototyping/).
 
