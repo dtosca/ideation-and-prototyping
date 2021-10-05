@@ -7,7 +7,7 @@ ref: posts
 order: 0
 ---
 October 4, 2021
-[50 Renderings of the Rubik's Cube]](https://dtosca.github.io/ideation-and-prototyping/50-shades/)
+[50 Renderings of the Rubik's Cube](https://dtosca.github.io/ideation-and-prototyping/50-shades/)
 
 September 30, 2021
 [The Perfect Mask](https://dtosca.github.io/ideation-and-prototyping/mask/)
